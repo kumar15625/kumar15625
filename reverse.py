@@ -1,2 +1,4 @@
+## reverse the string 
 s = "Hello"
-print(s[::-1])
+out = s[::-1]
+print(out)
